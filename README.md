@@ -5,5 +5,5 @@
 ## BUILD
 
 > On Linux (Ubuntu):
->  - Go into the terminal and cd to the directory in which you have downloaded the code
->  - type 'make' into the cmd line and GrantOS will open up
+>  - Go into the terminal and cd to the directory in which you have downloaded the code  
+>  - type 'make' into the cmd line and GrantOS will open up  
