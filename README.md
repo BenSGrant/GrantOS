@@ -1,6 +1,6 @@
 # GrantOS
 
-![image](doc/Screenshot from 2022-01-22 21-39-06.png "Early Demo")
+![image](doc/EarlyDemoGrantOSv0.1.png "Early Demo")
 
 >x86 cmd line OS by GTB using code from https://github.com/GaryTheBlobfish/Bootloader_x86  
 
