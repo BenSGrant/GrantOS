@@ -1,4 +1,4 @@
-#include "../drivers/vga.h"
+#include "util/GrantOS.h"
 
 void main() {
 	
