@@ -2,4 +2,5 @@
 
 void main() {
 	char msg[36] = "Welcome to GrantOS v0.1pr          ";
+	print(msg, 36);
 }
