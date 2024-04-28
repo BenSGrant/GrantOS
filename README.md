@@ -2,7 +2,7 @@
 
 ![image](doc/EarlyDemoGrantOSv0.1.png "Early Demo")
 
->x86 cmd line OS by GTB using code from https://github.com/GaryTheBlobfish/Bootloader_x86  
+>x86 cmd line OS by GTB using code from [my bootloader](https://github.com/GaryTheBlobfish/Bootloader_x86) 
 
 ## BUILD
 
