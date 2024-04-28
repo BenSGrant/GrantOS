@@ -1,5 +1,5 @@
 # GrantOS
-
+[More up to date details here](https://bensgrant.github.io/projects.html#GrantOS)
 ![image](doc/EarlyDemoGrantOSv0.1.png "Early Demo")
 
 >x86 cmd line OS by GTB using code from [my bootloader](https://github.com/GaryTheBlobfish/Bootloader_x86) 
